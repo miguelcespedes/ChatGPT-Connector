@@ -55,10 +55,10 @@ Esto iniciará el servidor en el puerto 80 de forma predeterminada. Puedes acced
 Para usar el proyecto, puedes enviar solicitudes HTTP GET al punto final `/client` con el parámetro `prompt` que contiene el texto que deseas enviar a ChatGPT. Por ejemplo:
 
 ```bash
-curl -X GET http://localhost/client?prompt=Hola, que hora será en Paris?
+curl -X GET http://localhost/client?prompt=Hola,%20que%20hora%20ser%C3%A1%20en%20Par%C3%ADs?
 ```
 
-Esto enviará la indicación "Hola, que hora será en Paris?" a ChatGPT y devolverá la respuesta en la respuesta.
+Esto enviará la indicación "Hola, que hora será en París?" a ChatGPT y devolverá la respuesta en la respuesta.
 
 **Notas adicionales**
 
