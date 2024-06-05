@@ -1,0 +1,48 @@
+# Node.js specific files
+node_modules/
+.cache/
+.tmp/
+.env*
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+npm-debug.log
+yarn-error.log
+yarn-lock.json
+
+# IDE or editor files
+.idea/
+#.vscode/
+*.suo
+*.iml
+
+# Test coverage
+coverage/
+
+# Local environment files
+.envrc
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build and deployment tools
+webpack/
+gulp/
+Gruntfile.js
+package-lock.json
+
+# Generated files
+dist/
+build/
+public/
+src/generated/*
+
+# Misc
+*.DS_Store
+LICENSE
+#README.md
+package-lock.json

@@ -1,0 +1,16 @@
+{
+    "name": "ChatGPT Connector",
+    "version": "1.0.0",
+    "description": "Creating a REST service with Express that automates ChatGPT via Puppeteer.",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "author": "miguelcespedes@outlook.com",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^5.3.3",
+        "express": "^4.19.2",
+        "puppeteer": "^13.7.0"
+    }
+}
