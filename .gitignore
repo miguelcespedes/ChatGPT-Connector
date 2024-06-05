@@ -43,6 +43,6 @@ src/generated/*
 
 # Misc
 *.DS_Store
-LICENSE
+#LICENSE
 #README.md
 package-lock.json
